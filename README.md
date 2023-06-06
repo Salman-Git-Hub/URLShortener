@@ -1,6 +1,8 @@
 # URLShortener
 A simple URL shortener application.
 
+![Example](../assets/img/output.png?raw=true)
+
 ## How to use?
 
  - First clone the repo.
@@ -31,4 +33,4 @@ Open your browser and enter the base url (the one you wrote in the `.env` file) 
 <br><br>
 Or, simple click on the url shown by the application
 
-![img.png](../assets/img/img.png?raw=true)
+![Output](../assets/img/img.png?raw=true)
