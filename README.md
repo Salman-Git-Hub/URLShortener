@@ -1,7 +1,7 @@
 # URLShortener
 A simple URL shortener application.
 
-![Example](../assets/img/output.png?raw=true)
+![Example](../assets/img/example.png?raw=true)
 
 ## How to use?
 
